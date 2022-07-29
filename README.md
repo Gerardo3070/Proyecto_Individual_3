@@ -13,4 +13,6 @@ Los repositorios utilizados para las web apps (Streamlit) se encuentran en: http
 Las web apps son:
 
 - Modelos de predicción ML: https://gerardo3070-proyectofinalml-prefinal-as595n.streamlitapp.com/
+![ModeloML](ModelosML.png)
 - Top 3 vendedores por mejores categorías: https://gerardo3070-proyectofinalml-top-3-5121d6.streamlitapp.com/
+![TopVentas](Top3.png)
